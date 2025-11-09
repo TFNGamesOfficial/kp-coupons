@@ -6,12 +6,13 @@
      "brand": "VITALIS",
      "discountText": "-1,50 €",
      "daysLeft": 1,
-     "activated": true
+     "activated": true,
+     "imageURL": "https://m.media-amazon.com/images/I/817uliVUgJL._AC_UF894,1000_QL80_.jpg"
    },
       {
      "id": "b4c8c6c1-2b3c-4b9a-9f7e-8c3f1a6d9e21",
      "title": "5% Rabatt",
-     "description": "Beim Einkauf an SB-Kassen.",
+     "description": "Beim Einkauf an den SB-Kassen.",
      "brand": "SB-Kasse",
      "discountText": "5%",
      "daysLeft": 9999,
