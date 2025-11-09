@@ -1,6 +1,6 @@
  [
    {
-     "id": "UUID-string",
+     "id": "B3F2F98D-5C36-4AB1-8F9B-D662E92C6C9B",
      "title": "Dr. Oetker Vitalis",
      "description": "ohne Zuckerzusatz, versch....",
      "brand": "VITALIS",
@@ -9,7 +9,7 @@
      "activated": true
    },
       {
-     "id": "UUID-string",
+     "id": "b4c8c6c1-2b3c-4b9a-9f7e-8c3f1a6d9e21",
      "title": "5% Rabatt",
      "description": "Beim Einkauf an SB-Kassen.",
      "brand": "SB-Kasse",
