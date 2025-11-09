@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A2B3C4D5-E6F7-4890-AB12-34567890ABCD",
+    "name": "KORREKT. Fil. 9579",
+    "address": "Rabestraße 33, 06844 Dessau-Roßlau",
+    "latitude": 51.83807924907081,
+    "longitude": 12.250156323392952,
+    "oeffnungszeitenMo": "07:00-13:00, 14:30-21:00",
+    "oeffnungszeitenDi": "07:00-13:00, 14:30-21:00",
+    "oeffnungszeitenMi": "07:00-13:00, 14:30-21:00",
+    "oeffnungszeitenDo": "07:00-13:00, 14:30-21:00",
+    "oeffnungszeitenFr": "07:00-13:00, 14:30-21:00",
+    "oeffnungszeitenSa": "07:00-12:00, 13:30-20:00",
+    "oeffnungszeitenSo": "Geschlossen"
+  },
+  {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "name": "KORREKT. Test Filiale",
+    "address": "Friedrich-Schneider-Str. 66, 06844 Dessau-Roßlau",
+    "latitude": 51.84479612378705,
+    "longitude": 12.2444719141756,
+    "oeffnungszeitenMo": "10:00–19:00",
+    "oeffnungszeitenDi": "10:00–19:00",
+    "oeffnungszeitenMi": "10:00–19:00",
+    "oeffnungszeitenDo": "10:00–19:00",
+    "oeffnungszeitenFr": "10:00–19:00",
+    "oeffnungszeitenSa": "10:00–16:00",
+    "oeffnungszeitenSo": "Geschlossen"
+  }
+]
