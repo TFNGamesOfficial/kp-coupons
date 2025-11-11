@@ -1,21 +1,102 @@
- [
-   {
-     "id": "B3F2F98D-5C36-4AB1-8F9B-D662E92C6C9B",
-     "title": "Dr. Oetker Vitalis",
-     "description": "ohne Zuckerzusatz, versch....",
-     "brand": "VITALIS",
-     "discountText": "-1,50 €",
-     "daysLeft": 1,
-     "activated": true,
-     "imageURL": "https://m.media-amazon.com/images/I/817uliVUgJL._AC_UF894,1000_QL80_.jpg"
-   },
-      {
-     "id": "b4c8c6c1-2b3c-4b9a-9f7e-8c3f1a6d9e21",
-     "title": "5% Rabatt",
-     "description": "Beim Einkauf an den SB-Kassen.",
-     "brand": "SB-Kasse",
-     "discountText": "5%",
-     "daysLeft": 9999,
-     "activated": true
-   }
- ]
+[
+  {
+    "id": "E12A7C9F-2D8B-4B90-9931-1F7C2D90B21E",
+    "title": "Müller Milchreis",
+    "description": "Alle Sorten. Cremig, lecker, schnell.",
+    "brand": "Müller",
+    "discountText": "-0,40 €",
+    "daysLeft": 6,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/61q3zXkRJtL._AC_.jpg"
+  },
+  {
+    "id": "9D33EE8C-99E4-4C9D-87B8-0D7AACD9F3B3",
+    "title": "Monster Energy",
+    "description": "Alle Sorten. Gönn dir.",
+    "brand": "Monster",
+    "discountText": "-0,60 €",
+    "daysLeft": 3,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/71NVuMcZV-L._AC_UL640_.jpg"
+  },
+  {
+    "id": "3A2DFB55-42C6-41E5-9E29-7364E16D12A1",
+    "title": "Dr. Oetker Pizza Ristorante",
+    "description": "Alle Sorten. Abend gerettet.",
+    "brand": "Dr. Oetker",
+    "discountText": "-1,00 €",
+    "daysLeft": 4,
+    "activated": true,
+    "imageURL": "https://m.media-amazon.com/images/I/81Ikj0a6VVN._AC_SL1500_.jpg"
+  },
+  {
+    "id": "3CFC4E44-5F7D-4417-A58E-8F6CE0FA18FE",
+    "title": "Capri-Sun 10er Pack",
+    "description": "Alle Sorten. Perfekt für unterwegs.",
+    "brand": "Capri-Sun",
+    "discountText": "-0,70 €",
+    "daysLeft": 9,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/71wBbs6k7eL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "18F5C155-D1B9-49C4-93C5-55D5A2E876CB",
+    "title": "Philadelphia Frischkäse",
+    "description": "Alle Sorten. Zum Streichen, Dippen, Leben.",
+    "brand": "Philadelphia",
+    "discountText": "-0,50 €",
+    "daysLeft": 2,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/81iX2R4HvoL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "F7C14734-4B7C-40D2-A73D-4F66A651D47B",
+    "title": "Coca-Cola, Fanta, Sprite (1L)",
+    "description": "Kühlregal. Trink' was.",
+    "brand": "Coca-Cola",
+    "discountText": "-0,35 €",
+    "daysLeft": 5,
+    "activated": true,
+    "imageURL": "https://m.media-amazon.com/images/I/51xG3z1UeLL._AC_.jpg"
+  },
+  {
+    "id": "47DA8D4E-1B7F-470D-A15A-6DA9A75F25D9",
+    "title": "Nutella 450g",
+    "description": "Für Brot, Löffel oder Teelöffel.",
+    "brand": "Nutella",
+    "discountText": "-1,20 €",
+    "daysLeft": 8,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/81WqSCO76-L._AC_SL1500_.jpg"
+  },
+  {
+    "id": "CDA41A09-BEAE-40BD-BA78-27BE62BD6991",
+    "title": "Milka Tafeln 100g",
+    "description": "Ganz ehrlich: immer gut.",
+    "brand": "Milka",
+    "discountText": "-0,30 €",
+    "daysLeft": 7,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/61L7E4PA-PL._AC_.jpg"
+  },
+  {
+    "id": "AEB33B05-99D9-4FF5-AFBA-A2FE0E3FC33A",
+    "title": "Red Bull 250ml",
+    "description": "Alle Sorten. Flügel optional.",
+    "brand": "Red Bull",
+    "discountText": "-0,50 €",
+    "daysLeft": 3,
+    "activated": true,
+    "imageURL": "https://m.media-amazon.com/images/I/61VQ1wcL2oL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "2C4C38D7-57F6-4F57-91C4-4D8C8FFD2745",
+    "title": "Käpt’n Iglo Fischstäbchen 15er",
+    "description": "Kross und Kindheit pur.",
+    "brand": "Iglo",
+    "discountText": "-0,80 €",
+    "daysLeft": 10,
+    "activated": false,
+    "imageURL": "https://m.media-amazon.com/images/I/81cP2vQUH-L._AC_SL1500_.jpg"
+  }
+]
