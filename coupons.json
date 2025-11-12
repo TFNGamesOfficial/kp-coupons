@@ -7,7 +7,7 @@
     "discountText": "-0,40 €",
     "daysLeft": 6,
     "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/61q3zXkRJtL._AC_.jpg"
+    "imageURL": "https://www.olial.de/wp-content/uploads/2024/03/mueller-milchreis-vanilla-200g-635x488.png"
   },
   {
     "id": "9D33EE8C-99E4-4C9D-87B8-0D7AACD9F3B3",
@@ -17,7 +17,7 @@
     "discountText": "-0,60 €",
     "daysLeft": 3,
     "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/71NVuMcZV-L._AC_UL640_.jpg"
+    "imageURL": "https://dosenmatrosen.imgbolt.de/media/f9/db/95/1751627760/GL008151-1-1-Monster_Energy_Lando_Norris.png?ts=1751627761"
   },
   {
     "id": "3A2DFB55-42C6-41E5-9E29-7364E16D12A1",
@@ -27,7 +27,7 @@
     "discountText": "-1,00 €",
     "daysLeft": 4,
     "activated": true,
-    "imageURL": "https://m.media-amazon.com/images/I/81Ikj0a6VVN._AC_SL1500_.jpg"
+    "imageURL": "https://www.oetker.de/assets/hygraph/AVtdz8Pl3QxerK0kYX32fz/resize=width:320/cmhtqj2dgc0mp07w8jb17nlsx"
   },
   {
     "id": "3CFC4E44-5F7D-4417-A58E-8F6CE0FA18FE",
@@ -37,7 +37,7 @@
     "discountText": "-0,70 €",
     "daysLeft": 9,
     "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/71wBbs6k7eL._AC_SL1500_.jpg"
+    "imageURL": "https://www.foodhub24.shop/media/image/product/10563/md/capri-sun-multi-vitamin-trinkpaeckchen-1x-10er-a-200ml~3.png"
   },
   {
     "id": "18F5C155-D1B9-49C4-93C5-55D5A2E876CB",
@@ -47,7 +47,7 @@
     "discountText": "-0,50 €",
     "daysLeft": 2,
     "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/81iX2R4HvoL._AC_SL1500_.jpg"
+    "imageURL": "https://images-tastehub.mdlzapps.cloud/images/fc016847-6b35-4023-a5ae-a61eb13fc757.png?fm=webp&q=80"
   },
   {
     "id": "F7C14734-4B7C-40D2-A73D-4F66A651D47B",
@@ -57,7 +57,7 @@
     "discountText": "-0,35 €",
     "daysLeft": 5,
     "activated": true,
-    "imageURL": "https://m.media-amazon.com/images/I/51xG3z1UeLL._AC_.jpg"
+    "imageURL": "https://souriredessaveurs.com/5498-home_default/coca-cola-zero-pet-plastikflasche-1-l.jpg"
   },
   {
     "id": "47DA8D4E-1B7F-470D-A15A-6DA9A75F25D9",
@@ -67,17 +67,7 @@
     "discountText": "-1,20 €",
     "daysLeft": 8,
     "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/81WqSCO76-L._AC_SL1500_.jpg"
-  },
-  {
-    "id": "CDA41A09-BEAE-40BD-BA78-27BE62BD6991",
-    "title": "Milka Tafeln 100g",
-    "description": "Ganz ehrlich: immer gut.",
-    "brand": "Milka",
-    "discountText": "-0,30 €",
-    "daysLeft": 7,
-    "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/61L7E4PA-PL._AC_.jpg"
+    "imageURL": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/2022/kw40/produkte/1007037_40-2022_FERRERONUTELLA450G-01_ON.png/_jcr_content/renditions/opt.1250w.png.res/1663056777775/opt.1250w.png"
   },
   {
     "id": "AEB33B05-99D9-4FF5-AFBA-A2FE0E3FC33A",
@@ -87,16 +77,6 @@
     "discountText": "2+1",
     "daysLeft": 3,
     "activated": true,
-    "imageURL": "https://m.media-amazon.com/images/I/61VQ1wcL2oL._AC_SL1500_.jpg"
-  },
-  {
-    "id": "2C4C38D7-57F6-4F57-91C4-4D8C8FFD2745",
-    "title": "Käpt’n Iglo Fischstäbchen 15er",
-    "description": "Kross und Kindheit pur.",
-    "brand": "Iglo",
-    "discountText": "-0,80 €",
-    "daysLeft": 10,
-    "activated": false,
-    "imageURL": "https://m.media-amazon.com/images/I/81cP2vQUH-L._AC_SL1500_.jpg"
+    "imageURL": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/870x2200/3d8f78a718/de_fai_250ml_ac_the-winter-edition_country_rgb_packrq-3114_cold_closed_front_com_25.png/m/400x0"
   }
 ]
