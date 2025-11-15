@@ -5,7 +5,7 @@
     "description": "Kilopreis mit App: 0.99€! Jetzt zuschlagen",
     "brand": "Kanzi",
     "discountText": "0,99",
-    "daysLeft": 7,
+    "daysLeft": 14,
     "activated": false,
     "imageURL": "https://static.vecteezy.com/system/resources/previews/009/887/176/non_2x/red-apples-free-png.png"
   },
@@ -74,7 +74,7 @@
     "title": "Red Bull 250ml",
     "description": "Alle Sorten. Flügel optional.",
     "brand": "Red Bull",
-    "discountText": "+5 Punkte",
+    "discountText": "+10 Punkte",
     "daysLeft": 3,
     "activated": true,
     "imageURL": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/870x2200/3d8f78a718/de_fai_250ml_ac_the-winter-edition_country_rgb_packrq-3114_cold_closed_front_com_25.png/m/400x0"
