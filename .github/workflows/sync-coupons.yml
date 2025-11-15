@@ -40,7 +40,7 @@ jobs:
       - name: Trigger Push Notification
         run: |
           curl -X POST \
-          https://laeolvvznxstwmydqklp.functions.supabase.co/push \
+          https://laeolvvznxstwmydqklp.supabase.co/functions/v1/push_new_coupon \
           -H "Content-Type: application/json" \
           -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_KEY }}" \
           -d '{
