@@ -1,0 +1,29 @@
+name: Push Notifications via FCM
+
+on:
+  push:
+    paths:
+      - "coupons.json"
+
+jobs:
+  send-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Send Push über FCM
+        run: |
+          curl -X POST \
+            https://fcm.googleapis.com/fcm/send \
+            -H "Authorization: key=${{ secrets.FCM_SERVER_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"to\": \"${{ secrets.FCM_DEVICE_TOKEN }}\",
+              \"notification\": {
+                \"title\": \"Neue Coupons verfügbar!\",
+                \"body\": \"Es gibt frische korrektPlus-Coupons – gleich mal reinschauen!\",
+                \"sound\": \"default\"
+              }
+            }"
