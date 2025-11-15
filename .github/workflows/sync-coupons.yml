@@ -37,14 +37,9 @@ jobs:
           -H "Prefer: resolution=merge-duplicates,return=minimal" \
           --data-binary @transformed.json
 
-      - name: Trigger Push Notification
+      - name: Trigger Supabase Function
         run: |
           curl -X POST \
-          https://laeolvvznxstwmydqklp.supabase.co/functions/v1/push_new_coupon \
-          -H "Content-Type: application/json" \
-          -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_KEY }}" \
-          -d '{
-          "title": "Neue Coupons verfügbar!",
-          "body": "Neue Angebote sind jetzt in korrektPlus verfügbar 🎉"
-          }'
+            -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_KEY }}" \
+            https://laeolvvznxstwmydqklp.supabase.co/functions/v1/push_new_coupon
 
