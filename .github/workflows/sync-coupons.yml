@@ -34,6 +34,5 @@ jobs:
             -H "apikey: $SUPABASE_SERVICE_KEY" \
             -H "Authorization: Bearer $SUPABASE_SERVICE_KEY" \
             -H "Content-Type: application/json" \
-            -H "Content-Profile: public" \
             -H "Prefer: resolution=merge-duplicates,return=minimal" \
             --data-binary @transformed.json
