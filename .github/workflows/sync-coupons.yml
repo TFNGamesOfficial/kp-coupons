@@ -31,8 +31,8 @@ jobs:
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           curl -X POST "https://laeolvvznxstwmydqklp.supabase.co/rest/v1/coupons" \
-          -H "apikey: SUPABASE_SERVICE_KEY_HIER" \
-          -H "Authorization: Bearer SUPABASE_SERVICE_KEY_HIER" \
+          -H "apikey: $SUPABASE_SERVICE_KEY" \
+          -H "Authorization: Bearer $SUPABASE_SERVICE_KEY" \
           -H "Content-Type: application/json" \
           -H "Prefer: resolution=merge-duplicates,return=minimal" \
           --data-binary @transformed.json
