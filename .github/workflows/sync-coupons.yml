@@ -11,6 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Transform coupons.json to Supabase schema
+  run: |
+    jq '[ .[] | {
+      id: .id,
+      title: .title,
+      description: .description,
+      brand: .brand,
+      image_url: .imageURL,
+      discount_text: .discountText,
+      days_left: .daysLeft,
+      activated: .activated
+    } ]' coupons.json > transformed.json
+
+
       - name: Import coupons into Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
