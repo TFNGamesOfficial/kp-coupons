@@ -20,9 +20,9 @@ jobs:
             description: .description,
             brand: .brand,
             image_url: .imageURL,
-            discount_text: .discountText,
-            days_left: .daysLeft,
-            activated: .activated
+            discountText: .discountText,
+            daysLeft: .daysLeft,
+            active: .activated
           } ]' coupons.json > transformed.json
 
       - name: Import coupons into Supabase Table
