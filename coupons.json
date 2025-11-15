@@ -1,13 +1,13 @@
 [
   {
     "id": "E12A7C9F-2D8B-4B90-9931-1F7C2D90B21E",
-    "title": "Müller Milchreis",
-    "description": "Alle Sorten. Cremig, lecker, schnell.",
-    "brand": "Müller",
-    "discountText": "-0,40 €",
-    "daysLeft": 3,
+    "title": "Kanzi Äpfel",
+    "description": "Kilopreis mit App: 0.99€! Jetzt zuschlagen",
+    "brand": "Kanzi",
+    "discountText": "0,99",
+    "daysLeft": 7,
     "activated": false,
-    "imageURL": "https://www.olial.de/wp-content/uploads/2024/03/mueller-milchreis-vanilla-200g-635x488.png"
+    "imageURL": "https://static.vecteezy.com/system/resources/previews/009/887/176/non_2x/red-apples-free-png.png"
   },
   {
     "id": "9D33EE8C-99E4-4C9D-87B8-0D7AACD9F3B3",
